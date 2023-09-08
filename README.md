@@ -51,9 +51,9 @@ Próximos passos...
 
 * **HTML**: Escolhido para estruturar a página web de forma semântica e acessível.
 
-* **CSS**: Utilizado para estilização, garantindo uma interface atraente e responsiva.
+* **CSS**: Utilizado pela capacidade de desenvolver uma interface web interativa e responsiva.
 
-* **JavaScript**: Utilizado para adicionar a funcionalidade de conversão de moedas.
+* **JavaScript**: Utilizado para permitir aos usuários criptografar e descriptografar mensagens.
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
