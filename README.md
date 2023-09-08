@@ -67,4 +67,4 @@ Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 
-Agradeço a [Programa ONE](https://www.oracle.com/br/education/oracle-next-education/), a [Alura](https://www.linkedin.com/school/aluracursos/) aos instrutores dos mesmos por me proporcionar esse desafio.
+Agradeço a [Programa ONE](https://www.oracle.com/br/education/oracle-next-education/), a [Alura](https://www.linkedin.com/school/aluracursos/) e aos instrutores dos mesmos por me proporcionar esse desafio 🫂.
