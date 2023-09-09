@@ -1,19 +1,46 @@
 # Decodificador de Texto
 
-Um simples [Conversor de Moedas](https://fernandesmelo.github.io/conversor-de-moedas/)
- que converte valores em dólares para reais. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+Um projeto chamado [Decodificador de Texto](https://fernandesmelo.github.io/conversor-de-moedas/), desenvolvido através do challenge do Programa One - Oracle Next Education.
+O mesmo se trata de uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
-![Captura de tela 2023-08-30 113620](https://github.com/fernandesmelo/conversor-de-moedas/assets/113717317/e0e91213-9b5a-43c9-a6cc-ef55fbaac8ff)
+![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
 
-O projeto "Conversor de Moedas" é uma aplicação web que permite aos usuários converter valores de dólares para reais. Suas funcionalidades principais são:
+##  Sobre o Desafio - Descrição
+As "chaves" de criptografia que utilizaremos são:
 
-✅ *Entrada de Valor*: A aplicação permite que o usuário insira um valor numérico em dólares que deseja converter para reais.
+🔍 A letra "e" é convertida para "enter"
 
-✅ *Conversão de Moeda*: Após inserir o valor em dólares, o usuário pode clicar no botão "Converter" para realizar a conversão desse valor para reais, com base em uma taxa de conversão fixa.
+🔍 A letra "i" é convertida para "imes"
 
-✅ *Exibição do Valor Convertido*: O valor convertido para reais é exibido na página, mostrando ao usuário o equivalente em moeda local.
+🔍 A letra "a" é convertida para "ai"
 
-Essas funcionalidades permitem que os usuários convertam facilmente valores de dólares para reais, tornando o projeto útil para quem precisa fazer estimativas de custos ou entender o valor equivalente em sua moeda local.
+🔍 A letra "o" é convertida para "ober"
+
+🔍 A letra "u" é convertida para "ufat"
+
+### Requisitos
+✔️ Deve funcionar apenas com letras minúsculas.
+
+✔️ Não devem ser utilizados letras com acentos nem caracteres especiais.
+
+✔️ Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+
+Por exemplo:
+"gato" => "gaitober" / gaitober" => "gato"
+
+✔️ A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções.
+
+✔️ O resultado deve ser exibido na tela.
+
+### Extras
+Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
+
+## Funcionalidades do Projeto
+- `Funcionalidade 1`: criptografar textos.
+- `Funcionalidade 2`: descriptografar textos.
+- `Funcionalidade 3`: Ctrl + z limpar área de texto.
+- `Funcionalidade 4`: copiar textos.  
+- `Funcionalidade 5`: deletar textos.                          
 
 ## 🚀 Começando
 
