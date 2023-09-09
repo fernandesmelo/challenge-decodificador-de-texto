@@ -1,6 +1,6 @@
 # Decodificador de Texto
 
-Um projeto chamado [Decodificador de Texto](https://fernandesmelo.github.io/conversor-de-moedas/), desenvolvido através do challenge do Programa One - Oracle Next Education.
+Um projeto chamado [Decodificador de Texto](https://fernandesmelo.github.io/challenge-decodificador-de-texto/), desenvolvido através do challenge do Programa One - Oracle Next Education.
 O mesmo se trata de uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 ![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
