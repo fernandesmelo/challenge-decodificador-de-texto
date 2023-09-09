@@ -35,7 +35,7 @@ Por exemplo:
 ### Extras
 Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
-## Funcionalidades do Projeto
+### Funcionalidades do Projeto
 - `Funcionalidade 1`: criptografar textos.
 - `Funcionalidade 2`: descriptografar textos.
 - `Funcionalidade 3`: Ctrl + z limpar área de texto.
