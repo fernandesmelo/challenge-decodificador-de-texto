@@ -3,7 +3,7 @@
 Um projeto chamado [Decodificador de Texto](https://fernandesmelo.github.io/challenge-decodificador-de-texto/), desenvolvido através do challenge do Programa One - Oracle Next Education.
 O mesmo se trata de uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
-![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
+![Captura de tela 2023-09-09 103234](https://github.com/fernandesmelo/challenge-decodificador-de-texto/assets/113717317/091bcb6b-74dd-48bf-ac6f-43fc6c36b634)
 
 ## 📝 Sobre o Desafio - Descrição
 As "chaves" de criptografia que utilizaremos são:
